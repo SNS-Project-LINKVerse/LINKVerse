@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/shiawaselife/linkverseback.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Min-beom/SNS---LinkVerse.git
